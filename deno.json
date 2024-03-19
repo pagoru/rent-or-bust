@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "start": "cd app/client && deno task start",
+    "build": "cd app/client && deno task build"
+  }
+}

@@ -1,0 +1,294 @@
+{ "frames": {
+   "toggle_buildings_on": {
+    "frame": { "x": 1003, "y": 0, "w": 12, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 666, "y": 572, "w": 12, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "toggle_buildings_off": {
+    "frame": { "x": 1003, "y": 13, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 649, "y": 576, "w": 12, "h": 9 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_disabled": {
+    "frame": { "x": 960, "y": 161, "w": 38, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 480, "y": 510, "w": 38, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_increment_blue": {
+    "frame": { "x": 928, "y": 206, "w": 38, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 480, "y": 525, "w": 38, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_danger_red": {
+    "frame": { "x": 966, "y": 206, "w": 38, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 520, "y": 496, "w": 38, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_green": {
+    "frame": { "x": 928, "y": 219, "w": 38, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 480, "y": 468, "w": 38, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_danger_blue": {
+    "frame": { "x": 966, "y": 219, "w": 38, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 520, "y": 482, "w": 38, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_blue": {
+    "frame": { "x": 928, "y": 232, "w": 38, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 480, "y": 482, "w": 38, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_red": {
+    "frame": { "x": 966, "y": 232, "w": 38, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 480, "y": 496, "w": 38, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_lock_1": {
+    "frame": { "x": 960, "y": 113, "w": 41, "h": 16 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 587, "y": 472, "w": 41, "h": 16 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_lock_2": {
+    "frame": { "x": 960, "y": 129, "w": 41, "h": 16 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 590, "y": 499, "w": 41, "h": 16 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "button_lock_3": {
+    "frame": { "x": 960, "y": 145, "w": 41, "h": 16 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 592, "y": 524, "w": 41, "h": 16 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "splash": {
+    "frame": { "x": 960, "y": 98, "w": 48, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 15 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "building_sign": {
+    "frame": { "x": 960, "y": 0, "w": 43, "h": 40 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 515, "y": 599, "w": 43, "h": 40 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "owned_sign": {
+    "frame": { "x": 960, "y": 67, "w": 29, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 359, "y": 626, "w": 29, "h": 31 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "modal": {
+    "frame": { "x": 470, "y": 294, "w": 160, "h": 90 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 442, "y": 27, "w": 160, "h": 90 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "shadow": {
+    "frame": { "x": 0, "y": 0, "w": 320, "h": 180 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 648, "y": 42, "w": 320, "h": 180 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "for_sale_sign": {
+    "frame": { "x": 960, "y": 40, "w": 44, "h": 27 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 370, "y": 560, "w": 44, "h": 27 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "sold_sign": {
+    "frame": { "x": 989, "y": 67, "w": 26, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 433, "y": 566, "w": 26, "h": 22 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "ave_street_sign": {
+    "frame": { "x": 928, "y": 180, "w": 78, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 280, "y": 574, "w": 78, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "st_street_sign": {
+    "frame": { "x": 928, "y": 193, "w": 78, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 280, "y": 560, "w": 78, "h": 13 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "background": {
+    "frame": { "x": 0, "y": 180, "w": 238, "h": 165 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 30, "w": 238, "h": 165 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "full_background": {
+    "frame": { "x": 320, "y": 0, "w": 320, "h": 180 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 627, "y": 261, "w": 320, "h": 180 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "ui": {
+    "frame": { "x": 640, "y": 0, "w": 320, "h": 180 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 195, "w": 320, "h": 180 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "tree": {
+    "frame": { "x": 1015, "y": 0, "w": 3, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 221, "y": 475, "w": 3, "h": 4 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "chunk": {
+    "frame": { "x": 238, "y": 180, "w": 232, "h": 120 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 375, "w": 232, "h": 120 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "land": {
+    "frame": { "x": 470, "y": 180, "w": 230, "h": 114 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 232, "y": 375, "w": 230, "h": 114 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "postal_code": {
+    "frame": { "x": 700, "y": 180, "w": 228, "h": 114 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 495, "w": 228, "h": 114 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "wall_right": {
+    "frame": { "x": 1018, "y": 0, "w": 2, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 386, "y": 38, "w": 2, "h": 3 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "wall_left": {
+    "frame": { "x": 1020, "y": 0, "w": 2, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 382, "y": 38, "w": 2, "h": 3 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   },
+   "square": {
+    "frame": { "x": 1022, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 384, "y": 36, "w": 2, "h": 2 },
+    "sourceSize": { "w": 1024, "h": 1024 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "textures.png",
+  "format": "RGBA8888",
+  "size": { "w": 1024, "h": 1024 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "toggle_buildings_on", "opacity": 255, "blendMode": "normal" },
+   { "name": "toggle_buildings_off", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_disabled", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_increment_blue", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_danger_red", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_green", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_danger_blue", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_blue", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_red", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_lock_1", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_lock_2", "opacity": 255, "blendMode": "normal" },
+   { "name": "button_lock_3", "opacity": 255, "blendMode": "normal" },
+   { "name": "splash", "opacity": 255, "blendMode": "normal" },
+   { "name": "building_sign", "opacity": 255, "blendMode": "normal" },
+   { "name": "owned_sign", "opacity": 255, "blendMode": "normal" },
+   { "name": "modal", "opacity": 255, "blendMode": "normal" },
+   { "name": "shadow", "opacity": 255, "blendMode": "normal" },
+   { "name": "for_sale_sign", "opacity": 255, "blendMode": "normal" },
+   { "name": "sold_sign", "opacity": 255, "blendMode": "normal" },
+   { "name": "ave_street_sign", "opacity": 255, "blendMode": "normal" },
+   { "name": "st_street_sign", "opacity": 255, "blendMode": "normal" },
+   { "name": "background", "opacity": 255, "blendMode": "normal" },
+   { "name": "full_background", "opacity": 255, "blendMode": "normal" },
+   { "name": "ui", "opacity": 255, "blendMode": "normal" },
+   { "name": "tree", "opacity": 255, "blendMode": "normal" },
+   { "name": "chunk", "opacity": 255, "blendMode": "normal" },
+   { "name": "land", "opacity": 255, "blendMode": "normal" },
+   { "name": "postal_code", "opacity": 255, "blendMode": "normal" },
+   { "name": "wall_right", "opacity": 255, "blendMode": "normal" },
+   { "name": "wall_left", "opacity": 255, "blendMode": "normal" },
+   { "name": "square", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}
