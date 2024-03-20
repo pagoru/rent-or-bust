@@ -1,3 +1,16 @@
 {
-  "test": "test"
+  "frames": {
+    "background_pattern": { "frame": { "x": 0, "y": 190, "w": 8, "h": 180 }, "sourceSize": { "w": 8, "h": 180 }, "anchor": { "x": 0, "y": 0 }  },
+    "with_love": { "frame": { "x": 0, "y": 120, "w": 48, "h": 15 }, "sourceSize": { "w": 48, "h": 15 }, "anchor": { "x": 0, "y": 0 }  }
+  },
+  "animations": {},
+  "meta": {
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 512
+    },
+    "scale": 1,
+    "texture": "./sprites.png"
+  }
 }
