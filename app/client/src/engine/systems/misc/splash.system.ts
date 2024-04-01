@@ -31,6 +31,11 @@ export const splashSystem: SystemFunction<Component> = async () => {
     );
     container.addChild(withLoveSprite);
 
+    if (true) {
+      container.destroy();
+      return;
+    }
+
     let repeat = 0;
     System.render.queue.addList(
       [
